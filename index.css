@@ -1,0 +1,72 @@
+html {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1rem;
+}
+
+body {
+    margin: 0;
+}
+
+nav {
+    text-align: center;
+    background: #FFFFFF;
+}
+
+nav a {
+    display: inline;
+    padding: 1rem;
+    color: black;
+    text-decoration: none;
+}
+
+.logo {
+    background-image: url("graphics/banner.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 22rem;
+}
+.logo h1 {
+    color: white;
+    padding: 30px 20px;
+}
+
+.red {
+    color :red;
+}
+.blue {
+    color: blue;
+ } 
+.yellow {
+    color: yellow;
+}
+
+#mission {
+    background: peru;
+    text-align: center;
+    padding: 5% 25% 5% 25%;
+
+}
+
+#about {
+    background: white;
+    text-align: justify;
+    padding: 5% 25% 5% 25%;
+
+}
+
+#team {
+    background: rgb(243, 62, 30);
+    color: white;
+}
+
+.picture_workers {
+    text-align: center;
+    
+}
+
+#contact {
+    background: blue;
+    color: white;
+    text-align: justify;
+    padding: 5% 25% 5% 25%;
+}
